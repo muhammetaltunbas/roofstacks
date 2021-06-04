@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-04T22:00:25 TRT" name="Default suite" finished-at="2021-06-04T22:01:01 TRT" duration-ms="35816">
+    <groups>
+    </groups>
+    <test started-at="2021-06-04T22:00:25 TRT" name="Default test" finished-at="2021-06-04T22:01:01 TRT" duration-ms="35816">
+      <class name="roofstacks.homework.TestHomework">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:25 TRT" name="initialize" finished-at="2021-06-04T22:00:30 TRT" duration-ms="4535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="goRoofStacksPage()[pri:0, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:30 TRT" name="goRoofStacksPage" finished-at="2021-06-04T22:00:41 TRT" duration-ms="11401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goRoofStacksPage -->
+        <test-method signature="goCareerPage()[pri:1, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:41 TRT" name="goCareerPage" finished-at="2021-06-04T22:00:51 TRT" duration-ms="9801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goCareerPage -->
+        <test-method signature="goProductPosition()[pri:2, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:51 TRT" name="goProductPosition" finished-at="2021-06-04T22:00:55 TRT" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goProductPosition -->
+        <test-method signature="goLeadProductTesterPage()[pri:3, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:55 TRT" name="goLeadProductTesterPage" finished-at="2021-06-04T22:00:56 TRT" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goLeadProductTesterPage -->
+        <test-method signature="checkLeadProductTesterPage()[pri:4, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:56 TRT" name="checkLeadProductTesterPage" finished-at="2021-06-04T22:00:56 TRT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLeadProductTesterPage -->
+        <test-method signature="sendCV()[pri:5, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:56 TRT" name="sendCV" finished-at="2021-06-04T22:00:57 TRT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendCV -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:roofstacks.homework.TestHomework@7f552bd3]" started-at="2021-06-04T22:00:57 TRT" name="closeBrowser" finished-at="2021-06-04T22:01:01 TRT" duration-ms="4354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- roofstacks.homework.TestHomework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
